@@ -1,0 +1,7 @@
+auth_token.txt
+*.png
+*.svg
+*.pdf
+*.ai
+
+.DS_Store
